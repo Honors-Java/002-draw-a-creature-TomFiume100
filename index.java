@@ -11,7 +11,7 @@ void draw() {
  
   //Make a creature!!! 
   //all of your programming should be after this 👍
-  
+
   //These lines are here so that the entire thing is not orange
   fill(255)
   stroke(0)
@@ -31,7 +31,9 @@ void draw() {
   stroke(106,41,41)
   line(162,150,127,132)
   line(238,150,273,132)
-  
+  //This fill will make the blue triangle hat
+  fill(0, 64, 255)
+  triangle(186, 78, 200, 57, 214, 78,)
  
 
   
